@@ -1,4 +1,4 @@
 # Word-Counter-using-ReactJS
 Created with CodeSandbox
 
-Use of useState, useRef & useEffect hooks to make a word counter.
+Studying React Hooks while making a word counter app that runs a 30sec count suring which the user can type in the textarea to check their typing speed.
