@@ -1,6 +1,6 @@
 import { useState, useRef, useEffect } from "react";
 
-const useWordCounter = (startingTime = 10) => {
+const useWordCounter = (startingTime = 30) => {
   const [text, setText] = useState("");
   const [timeRemaining, setTimeRemaining] = useState(startingTime);
   const [isTimeRunning, setIsTimeRunning] = useState(false);
