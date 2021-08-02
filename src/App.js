@@ -1,6 +1,7 @@
 import React from "react";
 import "./styles.css";
 import useWordCounter from "../hooks/useWordCounter";
+// Using the custom hook useWordCounter to import all the necessary functions to make the counter run.
 
 const App = () => {
   const {
